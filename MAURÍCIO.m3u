@@ -4,6 +4,16 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png" group-title="TV", BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1160101277.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/s320/Screenshot_2019-06-21-15-36-14.png" group-title="TV", ALL SPORTS TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w490782790.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="TV", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ihn-xuSrHwQ/X6RHU0JSLII/AAAAAAAADuM/IvGc0VCyhQMpLpBUmh2EOcSuSqUGjgNZwCLcBGAsYHQ/s0/TV%2BADQS.png" group-title="TV", TV ADQS
+https://stmv1.srvif.com/adqstv/adqstv/chunklist_w214155036.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/s0/CANAL%2B29.png" group-title="TV", CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist.m3u8
 
