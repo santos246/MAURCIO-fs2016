@@ -29,6 +29,9 @@ https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/espn_887309d0_2c3af79bb259bbd9
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espnplus-150x43.png" group-title="TV", ESPN Plus Especiais, Esportes
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/espnextra_93f271ad_9c8acce6101093a93a085a2438af187468b0b13e/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2ODgzODt9
 
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere5-150x24.png" group-title="TV", Premiere 5 Esportes
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere5_0486ffb0_632508ed39e666426f7f0f519b0ca0aeab5bcac3/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2OTEzNDt9
+
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", FORA DO AR
 LINK
 
