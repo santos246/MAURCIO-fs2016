@@ -30,6 +30,49 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere7_0b6a6376_f6e56e
 
 
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="ESPORTES", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg" group-title="ESPORTES", All Sports TV
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1082684514.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a4bf2a1b1c9251f3d1fc0af4e015daf4.jpg" group-title="ESPORTES", TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w808432903.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895c7ba6376e57efcfabcc14d291b339.jpg" group-title="ESPORTES", TV Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/29bd5af93095d92009a3090c0b978a60.png" group-title="ESPORTES", TV Diário Do Sertão
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1900739505.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f9d04042613fc569bfe9e870991cd54f.png" group-title="ESPORTES", WebTV Imagem de Caetano
+https://srv4.zcast.com.br/panorama/panorama/chunklist_w18082108.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2ca781620fe7f3258d8e6d03bf0cd73c.jpg" group-title="ESPORTES", TV ADO
+https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1797598555.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/25eb09c08cee19aadf5537a9b6287815.png" group-title="ESPORTES", Rete8 Sport
+https://dcunilive263-lh.akamaihd.net/i/dclive_1@352220/index_150_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="ESPORTES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="ESPORTES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="ESPORTES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="ESPORTES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="ESPORTES", NOME
+LINK
+
+
+
+
+
 
 
 
