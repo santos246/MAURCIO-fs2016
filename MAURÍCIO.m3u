@@ -12,8 +12,8 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/sportv_91dfde1d_57229eda1e0abac
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere2-150x24.png" group-title="TV", PFC Esportes(testando esse canal)
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/premiereclubes_3f1522d0_2db07942f4faaa02291212ec1b748d4906c4b8fd/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2NzUwNzt9
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxsports-150x83.png" group-title="TV", Fox Sports Esportes (testando esse canal)
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_86b73d56dacec5ffe74c30a79d676fa5ed859d29/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2NzY5OTt9
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", FORA DO AR
 LINK
