@@ -4,6 +4,23 @@
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png" group-title="TV", BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1160101277.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv-150x28.png" group-title="TV", SporTV(testando esse canal)
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/sportv_91dfde1d_57229eda1e0abaca2390202cd76e7e173018d521/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2NjYwNzt9
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", CANAL
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", CANAL
+LINK
+
+
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/s320/Screenshot_2019-06-21-15-36-14.png" group-title="TV", ALL SPORTS TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w490782790.m3u8
 
