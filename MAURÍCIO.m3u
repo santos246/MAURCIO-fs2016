@@ -49,11 +49,12 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiere3_b903ea63_d916ca3f16
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryhomehealth-150x28.png" group-title="DOCUMENTÁRIOS", Discovery Home & Health Documentários
 https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/discoveryhomehealth_84582c1d_a3a6f5b7e54a7d62ba73a4a594d559dacc329264/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTAzMDt9
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/theaterhd-150x70.png" group-title="DOCUMENTÁRIOS", Discovery Theater
+Documentários
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoverytheater_904f2cc1_0c81c519e1e119597b48c2806b253931e37a3dc9/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTEzNjt9
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryscience.png" group-title="DOCUMENTÁRIOS", Discovery Science Documentários
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryscience_77c8184f_f1d39d3f49a0f1fffb438644ea4a083e5820fb27/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTEyODt9
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
 LINK
