@@ -18,8 +18,8 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_86b73d56d
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv3-150x27.png" group-title="TV", SporTV 3 Esportes
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sportv3_e1a864f0_f3cbc72ef1423219198f382d3a0e5feb00faa04b/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2NzgxMTt9
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/12/ufc-logo-6-150x52.png" group-title="TV", UFC Esportes
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/combate_ac3478d6_77dd171bac8806904a392331182eef80f16ef9e9/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2ODA1MTt9
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="TV", FORA DO AR
 LINK
