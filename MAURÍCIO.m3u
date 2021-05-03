@@ -32,6 +32,18 @@ https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/espnextra_93f271ad_9c8acce61010
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere5-150x24.png" group-title="TV", Premiere 5 Esportes
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere5_0486ffb0_632508ed39e666426f7f0f519b0ca0aeab5bcac3/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2OTEzNDt9
 
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere4-150x24.png" group-title="TV", Premiere 4 Esportes
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/premiere4_142e9ae3_e71b056838ae70d19fc698e4a534e1dae1cbbcb4/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2OTIzOTt9
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", FORA DO AR
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", FORA DO AR
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", FORA DO AR
+LINK
+
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", FORA DO AR
 LINK
 
