@@ -34,12 +34,12 @@ https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere7_0b6a6376_f6e56e
 
 
 
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery-150x70.png" group-title="DOCUMENTÁRIOS", https://aovivo.gratis/wp-content/uploads/2019/07/discovery-150x70.png
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery-150x70.png" group-title="DOCUMENTÁRIOS", Discovery Channel Alternativo 1 Documentários
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/discoverychannel_af3e1334_c53038e19c5300756120a864c9a0acc893888c77/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2OTk2Mzt9
 
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery-150x70.png" group-title="DOCUMENTÁRIOS", Discovery Channel Documentários
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/discoverychannel_af3e1334_c53038e19c5300756120a864c9a0acc893888c77/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MDM0MDt9
 
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
