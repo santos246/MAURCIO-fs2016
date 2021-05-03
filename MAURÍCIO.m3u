@@ -63,62 +63,18 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/disneyjunior_572e2073_3f81a79
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tooncast-150x38.png" group-title="INFANTIS", Tooncast Infantis
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tooncast_8effee40_788db4b9583a3dad8c15925d85b1a2bd767e4caf/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTgxMjt9
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
-LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
-LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
-LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
-LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globonews-150x36.png" group-title="VARIEDADES", Globo News
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/discoveryhomehealth_84582c1d_a3a6f5b7e54a7d62ba73a4a594d559dacc329264/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MjExNjt9
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tnt-150x150.png" group-title="TV", TNT
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/tnt_9109c85a_befadc51c72797501a6b190bff52808e8bae57ee/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MjI0NTt9
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/space.png" group-title="INFANTIS", Space
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/space_e6c3dd63_dc7a50c274e5e39eaa2f9458703eac1ca7d1a746/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MjM2Njt9
 
 
 
