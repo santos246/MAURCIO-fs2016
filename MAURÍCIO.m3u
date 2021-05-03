@@ -56,34 +56,41 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoverytheater_904f2cc1_0c
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryscience.png" group-title="DOCUMENTÁRIOS", Discovery Science Documentários
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryscience_77c8184f_f1d39d3f49a0f1fffb438644ea4a083e5820fb27/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTEyODt9
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/disneyjr-150x51.png" group-title="INFANTIS", Disney Junior Infantis
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/disneyjunior_572e2073_3f81a791b27cb67a66333b76ac00535959c73ec3/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTM4ODt9
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIS", FORA DO AR
 LINK
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
