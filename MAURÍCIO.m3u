@@ -43,11 +43,11 @@ https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/discoverychannel_af3e1334_c530
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="TV 1", ?
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/premiere4_142e9ae3_e71b056838ae70d19fc698e4a534e1dae1cbbcb4/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MDYxNTt9
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV 1", ?
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/premiere3_b903ea63_d916ca3f16ec44447713ff61871a92cabb922b2a/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MDkxNDt9
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
-LINK
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryhomehealth-150x28.png" group-title="DOCUMENTÁRIOS", Discovery Home & Health Documentários
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/discoveryhomehealth_84582c1d_a3a6f5b7e54a7d62ba73a4a594d559dacc329264/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTAzMDt9
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORA DO AR
 LINK
