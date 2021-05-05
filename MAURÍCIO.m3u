@@ -38,9 +38,6 @@ https://dcunilive263-lh.akamaihd.net/i/dclive_1@352220/index_150_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/66fbce5bc3fc559947dac1d615b0b352.jpg" group-title="ESPORTES", BFM Sport
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/938f98bd94d9770d49bd8c68de61c068.jpg" group-title="ESPORTES", RS News Web Tv
-https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist_w1377914601.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/07aef32e158a66e582cbe8deb7de40a8.png" group-title="ESPORTES", TV ADQS
 https://stmv1.srvif.com/adqstv/adqstv/chunklist_w608157597.m3u8
 
@@ -91,14 +88,44 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w332274250_b104410
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NvwQt5S7Vk4/YEuVTRRD-0I/AAAAAAAAEY8/J_37-vrRLoUunJukQXGt5NDYP6iijbrbwCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="EDUCATIVOS", TV BRASIL
 https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="EDUCATIVOS", FORADOAR
-LINK
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-v4S08KEqCO0/XUDgZoB0fLI/AAAAAAAABYY/VF1Jl9FOAsINWLmGYNuJXDieFbdv_MCvgCPcBGAYYCw/s320/Screenshot_2019-07-30-21-10-44.png" group-title="EDUCATIVOS", TV ANDRADAS
+https://caikron.com.br:8082/tvandradas/tvandradas.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="EDUCATIVOS", FORADOAR
-LINK
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OV1sqQRTa_k/XtbIgvin_SI/AAAAAAAAC5U/HYNuaX5vJyUlE_ktjWpLtBHCs-hvk1ROgCLcBGAsYHQ/s320/2020-06-02%2B18.41.50.png" group-title="EDUCATIVOS", SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index720p.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="EDUCATIVOS", FORADOAR
-LINK
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Bw-eF1xIcXI/XSDTesUtj6I/AAAAAAAABTo/BNFF8mttDMI7jt2WtZa9lU3yEJWGa6JCACPcBGAYYCw/s320/Screenshot_2019-07-06-13-44-18.png" group-title="EDUCATIVOS", CANAL FUTURA (TV O Povo)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w794025188.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AyvQ_GWHHRk/XidTZEc01uI/AAAAAAAACYk/7NPVArAhge0ehksYnONeuvCPQ7dDh8oDACLcBGAsYHQ/s320/Screenshot_2020-01-21-16-36-15.png" group-title="EDUCATIVOS", TV PARANÁ TURISMO
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4yRLtTpO1u0/XKee145OuoI/AAAAAAAAAtU/--ibs_tKaI4TChvyKThhslwTEezkfCbhQCLcBGAs/s320/Screenshot_2019-04-05-15-29-17.png" group-title="EDUCATIVOS", TV CANDIDÉS
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b1327104.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MWWn70MdGHU/XKe0LyPWQAI/AAAAAAAAAuA/otYeXC8Zn2YyelaN3VL4OZ2tII3IWSSbQCPcBGAYYCw/s320/Screenshot_2019-04-05-16-12-51.png" group-title="EDUCATIVOS", TV AMBIENTAL
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1067423751.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-fo1KsdlRY2E/XikSRCEaeXI/AAAAAAAACaQ/80pAlRKaecMy3LXgEVqLFhAMIjFMNaCHACLcBGAsYHQ/s320/2020-01-23%2B00.22.57.png" group-title="EDUCATIVOS", TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--V0fvGYqd-c/X5xw3Rxj0hI/AAAAAAAADp4/tuCJTMgnJEwwQRaIkKXCdyADkMzrOsVNACLcBGAsYHQ/s0/UNITV.png" group-title="EDUCATIVOS", UNITV
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="EDUCATIVOS", TV CULTURA PA (Portal Cultura)
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1205230757.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-yGl00jP5wz0/XT8olJHsfEI/AAAAAAAABX0/VIWzge0KCcsdJqaJ3CLerYsfvMLsQPx4ACPcBGAYYCw/s320/Screenshot_2019-07-29-13-59-18.png" group-title="EDUCATIVOS", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w200098464.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vUKhx5RPsXY/XZuPBhqgdhI/AAAAAAAACFs/LPX5h7EyaSgUiSi_oE64l2GFzP3yOXjvACLcBGAsYHQ/s320/2019-10-07%2B16.13.43.png" group-title="EDUCATIVOS", FUN CANAL
+http://video01.kshost.com.br/luiz68286/luiz68286/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uCG0l8yLNnQ/YHW_XVMbDQI/AAAAAAAAEiU/DcyR43wJBMkz0x17nm_X6AYSQtQUEk6cQCLcBGAsYHQ/s0/CANAL%2BSA%25C3%259ADE.png" group-title="EDUCATIVOS", CANAL SAÚDE
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-09IWN1Z5PG0/XPqlslml3QI/AAAAAAAAA-k/8R1GKl5AbbYX38UIX2OGsuqTHiqtfL9dwCPcBGAYYCw/s320/Screenshot_2019-06-07-13-17-57.png" group-title="EDUCATIVOS", TV PREVE
+http://video01.kshost.com.br/paulispar7372/paulispar7372/chunklist_w730674839.m3u8
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="EDUCATIVOS", FORADOAR
 LINK
