@@ -71,7 +71,20 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6H8ETl4gg1w/XguRetjPBRI/AAAAAAAACUw/PiEK3F22NT8fXcsAwywOBrUH2VHxcGb6ACLcBGAsYHQ/s320/2019-12-31%2B15.15.23.png" group-title="DOCUMENTÁRIOS", TV LIBERDADE ONLINE
 https://5c483b9d1019c.streamlock.net/8238/8238/chunklist_w379059068.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORADOAR
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png" group-title="FAROESTE", WEB TV PROGRESSO
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w1119543859.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="FAROESTE", FORADOAR
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="FAROESTE", FORADOAR
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="FAROESTE", FORADOAR
 LINK
 
 
