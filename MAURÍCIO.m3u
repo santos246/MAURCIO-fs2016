@@ -53,6 +53,57 @@ https://nn.geo.joj.sk/live/hls/wau-540.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/63fc30c6acebac5d43ae33d0db4953c4.jpg" group-title="ESPORTES", RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="ESPORTES", RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OV1sqQRTa_k/XtbIgvin_SI/AAAAAAAAC5U/HYNuaX5vJyUlE_ktjWpLtBHCs-hvk1ROgCLcBGAsYHQ/s320/2020-06-02%2B18.41.50.png" group-title="CULTURA", SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/2df04da5-2f5d-4ef6-a017-73f36dbc3327_index720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="CULTURA", TV CULTURA PR (Catve)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1874894720.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="CULTURA", TV CULTURA PA (Portal Cultura)
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1205230757.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4yRLtTpO1u0/XKee145OuoI/AAAAAAAAAtU/--ibs_tKaI4TChvyKThhslwTEezkfCbhQCLcBGAs/s320/Screenshot_2019-04-05-15-29-17.png" group-title="CULTURA", TV CANDIDÉS
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b1327104.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AyvQ_GWHHRk/XidTZEc01uI/AAAAAAAACYk/7NPVArAhge0ehksYnONeuvCPQ7dDh8oDACLcBGAsYHQ/s320/Screenshot_2020-01-21-16-36-15.png" group-title="CULTURA", TV PARANÁ TURISMO
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-FOxhmdJyMKk/XQlqxGMBlvI/AAAAAAAABG0/xsnXmVL0LRcrbIH7YWd81-1-aD7QgQLnACPcBGAYYCw/s320/Screenshot_2019-06-18-19-42-17.png" group-title="CULTURA", TV CULTURA MS (TVE Cultura)
+https://5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/chunklist_w25403194.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qpcJAwQ7riE/XdGU6Qzz9pI/AAAAAAAACQc/lsVF8tg0wjMBabznG5ODl9guphXXThabQCLcBGAsYHQ/s320/2019-11-17%2B15.33.41.png" group-title="CULTURA", TV UFSC
+http://150.162.188.10:8080/hls/1_hi.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tIxRMyERpgI/XYLBTE4BQKI/AAAAAAAAB84/f5hwFYjH-VoMIWWGoWVhDwoer5YdZxxGACLcBGAsYHQ/s320/Screenshot_2019-09-18-20-42-33.png" group-title="EDUCATIVOS", TV FAAP
+http://midiamobile.faap.br/faaplatamlive-live/stream_480/chunklist_w174275491.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4tc8IooV_1c/XDNsF7Miz8I/AAAAAAAAAZg/KFfSndOyCiYLbH1e5tP_JU9N0E7rKzyvACPcBGAYYCw/s320/Screenshot_2019-01-07-01-10-49.png" group-title="EDUCATIVOS", TV UFG
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w332274250_b1044100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NvwQt5S7Vk4/YEuVTRRD-0I/AAAAAAAAEY8/J_37-vrRLoUunJukQXGt5NDYP6iijbrbwCLcBGAsYHQ/s0/TV%2BBRASIL.png" group-title="EDUCATIVOS", TV BRASIL
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="EDUCATIVOS", FORADOAR
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="EDUCATIVOS", FORADOAR
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="EDUCATIVOS", FORADOAR
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="EDUCATIVOS", FORADOAR
+LINK
+
+
 
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIL", FORADOAR
@@ -78,13 +129,16 @@ https://5c483b9d1019c.streamlock.net/8238/8238/chunklist_w379059068.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2Nzqwhtd0qQ/XqXrtj4hFbI/AAAAAAAACow/zc8aMo4w6us8CoOF4FN3i3YPr_N7kegrQCLcBGAsYHQ/s320/Screenshot_2020-04-26-17-09-52.png" group-title="FAROESTE", WEB TV PROGRESSO
 https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w1119543859.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="FAROESTE", FORADOAR
-LINK
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-Hl4ZQg-OOXs/XYAzPJFp3GI/AAAAAAAAB7Q/KI2zaXaNAUo9Je2RJ39E93EOdJBAJxgfgCLcBGAsYHQ/s320/Screenshot_2019-09-16-22-00-39.png" group-title="FAROESTE", CLASSIQUE WESTERN TV
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="FAROESTE", FORADOAR
-LINK
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I2c8J1M9-ko/X7VclpPcIJI/AAAAAAAAD0s/e4GOBBPUqycpGVMtbejpoAhuQIgsR644gCLcBGAsYHQ/s0/CINE%2BTRIANON%2BTV.png" group-title="FAROESTE", CINE TRIANON TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w398268561.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="FAROESTE", FORADOAR
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qC3WnRbjawk/XQq-p4bwJII/AAAAAAAABHc/5fDcPuFjtgMbcXiFI3iOOWRTLX6bK6g2ACPcBGAYYCw/s320/Screenshot_2019-06-19-19-57-14.png" group-title="NOTICIAS", RECORD NEWS MA (TV Guará)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist_w814734592.m3u8
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="NOTICIAS", FORADOAR
 LINK
 
 
