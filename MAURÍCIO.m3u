@@ -35,9 +35,6 @@ https://5c483b9d1019c.streamlock.net/tvado/tvado/chunklist_w1797598555.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/25eb09c08cee19aadf5537a9b6287815.png" group-title="ESPORTES", Rete8 Sport
 https://dcunilive263-lh.akamaihd.net/i/dclive_1@352220/index_150_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/806f883a472bb65173f58a7203524e54.png" group-title="ESPORTES", WSVN 7News
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master_640-3083.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/66fbce5bc3fc559947dac1d615b0b352.jpg" group-title="ESPORTES", BFM Sport
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 
@@ -50,46 +47,20 @@ https://stmv1.srvif.com/adqstv/adqstv/chunklist_w608157597.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/99bbf1505fd8b9347d1551de1f02ef78.png" group-title="ESPORTES", Tv Jaguar Hdtv Brisanet Canal 170
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c3b63747c2a7653bbc391d3fa24fcb5c.png" group-title="ESPORTES", Maroñas
-https://vxlive.cdn.antel.net.uy/auth_livesignal_938,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfOTM4JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MjAxMDI5MDkmcmFuZG9tPVNJeDRnRFBQWHcmYy1pcD0yMDEuMTkuMTE0LjE5MCw2NjY0YzQ3NDI5Mzk1MDg3Y2JhODk1OGFkZGY4MTQwOGIzZjEzOWJjZTk2N2U5NTllMjgzOWY3MmI5MjU0OGNl/vxfmt=hls/h_eeba0bbf74d77f1303ac6f5aa3697bb5/var1200000/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42f5997ddaa17d2f51e6dfc25551ae94.png" group-title="ESPORTES", WAU TV
 https://nn.geo.joj.sk/live/hls/wau-540.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/63fc30c6acebac5d43ae33d0db4953c4.jpg" group-title="ESPORTES", RTV San Marino Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f073024b8b2a638c0af1309adb282fb0.png" group-title="ESPORTES", Teletrack
-https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8?nimblesessionid=25118576
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06b1e356a3f47d1952f33e389a2f4594.jpg" group-title="ESPORTES", InfoPescar Tv
-https://video-weaver.phx01.hls.ttvnw.net/v1/playlist/CpAF-TzhhP6xshB6QwD0TUyuWDkJwBH8tpfmbpGKwEbZ7ne-41gw0Uag1RXWmL3sGOFlhwnvcySKLB-3MQM7ormsI0yx7TaNHQIF7Kz7bpMEfvYOzaleUd84q8xBxg4rXRQg9gouAfKk1OshungzMo5F9U-XXd1E6tHMUj0vgzWPiiMPz2_G8OZSkC-cuYZiQHQIMEf070dBSrNlpuPqYEBlT_AdfRqnkFlN3z83viOtNbff4ov4JLAaJhAaNlwGjmSwPX-MliO4YFpX84-iZmHpXApDlvhYVzviWS0b2JUwXD70RNy5mykH6sQMl-OfL8F1_0aqqixCkhyQUr69gxu-Hown0lDADVyUqU1uO3enH4D6QM2278tU97LGAG3oued__efUEAdh_t4nXBRmGNt7K7DXLM2XYJVkbsitBqudnT-dght1mnhH6g7C5oaK1tG8kHJxUXoH7Qeo6LdItefJ8DefaqqWQzWzdnZ_Lv2xb8PUNy4nIlUTrn9rTwETOGQoTMzx2uMcJiLh-r2coSCqi9gjS9hAx-6TnEJiFIsP-uT53-lFqSpNfyssklNZQFVYlw1q9Vkfam04J57sXFWRbSvj311ONDlVZRu0FBo-Fjl_r9IizKvJXAikQh40uOM6REukWgtCFspvc604zXI8NP80CCVEK-dp5s0j6QUYG8_1p56GFKa41jBMkHes4t_NVokPeg1cFjBfVfMxR-wn0nxGh2ancWGBS4OTO5DZ2HQZqQnwfuRiTwV0fYI6O30gbT_goOpH9vZ89GpIidrBfWxIn2BhRhTDkDlqxpdJPYQdz-8cp3R2y1Qt-RnXd4tEhJcZgixqd3-Dq9DK2AnZX8o93Mf6Xo06zg3inpp7s7oSEP4roK80y86S5SkxCHgeF-gaDMDn9FZbRQwPTg4PjA.m3u8
 
 
 
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery-150x70.png" group-title="DOCUMENTÁRIOS", Discovery Channel Alternativo 1 Documentários
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/discoverychannel_af3e1334_c53038e19c5300756120a864c9a0acc893888c77/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA2OTk2Mzt9
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery-150x70.png" group-title="DOCUMENTÁRIOS", Discovery Channel Documentários
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/discoverychannel_af3e1334_c53038e19c5300756120a864c9a0acc893888c77/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MDM0MDt9
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryhomehealth-150x28.png" group-title="DOCUMENTÁRIOS", Discovery Home & Health Documentários
-https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/discoveryhomehealth_84582c1d_a3a6f5b7e54a7d62ba73a4a594d559dacc329264/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTAzMDt9
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/theaterhd-150x70.png" group-title="DOCUMENTÁRIOS", Discovery Theater
-Documentários
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoverytheater_904f2cc1_0c81c519e1e119597b48c2806b253931e37a3dc9/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTEzNjt9
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discoveryscience.png" group-title="DOCUMENTÁRIOS", Discovery Science Documentários
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoveryscience_77c8184f_f1d39d3f49a0f1fffb438644ea4a083e5820fb27/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTEyODt9
-
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORADOAR
+LINK
 
 
 
