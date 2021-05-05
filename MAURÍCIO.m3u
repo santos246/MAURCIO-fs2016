@@ -55,41 +55,24 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORADOAR
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="INFANTIL", FORADOAR
 LINK
 
 
 
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NLooorUvm7k/X5Hbqlc2XvI/AAAAAAAADgY/U1afLcUB7kQXvlEUHYyxlJ8waG5Vg4kfwCLcBGAsYHQ/s0/TV%2BDIGITAL%2BBIRIGUI.png" group-title="DOCUMENTÁRIOS", TV DIGITAL BIRIGUI
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w351270549.m3u8
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-v32ljwWed34/XYRUfA9e4DI/AAAAAAAAB-I/zHe2ja5n-yEkT90dxgZ2CKbUtt_0-9nMQCLcBGAsYHQ/s320/Screenshot_2019-09-20-01-06-06.png" group-title="DOCUMENTÁRIOS", TVÍDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w388325716.m3u8
 
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/disneyjr-150x51.png" group-title="INFANTIS", Disney Junior Infantis
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/disneyjunior_572e2073_3f81a791b27cb67a66333b76ac00535959c73ec3/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTM4ODt9
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6H8ETl4gg1w/XguRetjPBRI/AAAAAAAACUw/PiEK3F22NT8fXcsAwywOBrUH2VHxcGb6ACLcBGAsYHQ/s320/2019-12-31%2B15.15.23.png" group-title="DOCUMENTÁRIOS", TV LIBERDADE ONLINE
+https://5c483b9d1019c.streamlock.net/8238/8238/chunklist_w379059068.m3u8
 
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tooncast-150x38.png" group-title="INFANTIS", Tooncast Infantis
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tooncast_8effee40_788db4b9583a3dad8c15925d85b1a2bd767e4caf/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MTgxMjt9
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globonews-150x36.png" group-title="VARIEDADES", Globo News
-https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/discoveryhomehealth_84582c1d_a3a6f5b7e54a7d62ba73a4a594d559dacc329264/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MjExNjt9
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tnt-150x150.png" group-title="TV", TNT
-https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/tnt_9109c85a_befadc51c72797501a6b190bff52808e8bae57ee/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE2MTo4MTAwOjY0OTg6ZDdmZjpkODZlOmQ2YTMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC45MyBTYWZhcmkvNTM3LjM2IEVkZy85MC4wLjgxOC41MSI7aToyO2k6MTYyMDA3MjI0NTt9
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="DOCUMENTÁRIOS", FORADOAR
+LINK
 
 
 
