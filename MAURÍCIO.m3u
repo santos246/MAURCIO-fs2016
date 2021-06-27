@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 
 
@@ -9,23 +9,29 @@
 #EXTINF:-1 tvg-logo="https://www.papodecinema.com.br/wp-content/uploads/2015/02/20190520-golpe-de-mestre_t2719.jpg" group-title="FILME", GOLPE DE MESTRE
 https://www.googleapis.com/drive/v3/files/1IBL4SDJL6MzIqVeTCDBESICI_HikQCMG?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="http://www.nossocinema.com.br/wp-content/uploads/2021/02/eu-me-importo-CARTAZ-691x1024.jpg" group-title="FILME", EU ME IMPORTO
-https://www.googleapis.com/drive/v3/files/1eYG1_iIXvt-97nzR2KAYih-UJxsOvLpu?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/7OBNEWwkFhsArvWJwgeL9BFmU7c.jpg" group-title="FILME", Alma de Cowboy (2020)
-https://www.googleapis.com/drive/v3/files/1xCqvi3hp_vzZXjcrOosUmjNZgQJoufqg?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/lp9yaPNrdz1cck6qLcMZNQ27wsd.jpg" group-title="FILME", Inferno na Fronteira (2019) 
-https://www.googleapis.com/drive/v3/files/17n5qB7oZWPossNGRnnWykiRZ2N-y5Li3?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+#EXTINF:-1 tvg-logo="https://javiu.files.wordpress.com/2021/02/eume.jpg?w=600" group-title="FILME", OPÇAO 1 EU ME IMPORTO.
+https://www.googleapis.com/drive/v3/files/1yaFikyEKjo2cqdYrea3g8lzselBuH8B5?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="FILME", Deadwood (2019) 
-https://www.googleapis.com/drive/v3/files/1sbO0gwMkQQQKVglY5NR-ATXfTj3FiFJJ?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+#EXTINF:-1 tvg-logo="https://javiu.files.wordpress.com/2021/02/eume.jpg?w=600" group-title="FILME", OPIÇAO 2 EU ME IMPORTO.
+https://861530416.tapecontent.net/radosgw/QK0qemD2AeU0O1b/pReqXFe1INwPhu9otFifqslMBiugkmcF31vR7YWUG64yBrpa1-N1Wf9_-OON-mjpkjro1CZqvttS4Gaijf3-Zr4Tw3Xtr0QhnkQE9WOTtELoz2IeuCcWk5_5kfiSZdaQmgdWzQa30nLDPIYZerhnEC_YOoW3g0ZchON2p7a_1Mtpq5ZN8EGPT640fJ_65iQReBkobRWLl2bmgt8w-DZOZrDiOdNOrJvO4gm99NUDodsTagqnEIG2fwHi9FEVvcoz7cQkQMjFOBvQQEtigMluatiafMwA1vbgW4NpWg/cFdPnmdYM1QmJHPX.mp4?stream=1" type="video/mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qF7PKbM4KpjF7e6KOUoluoz78fl.jpg" group-title="FILME", O Duelo (2016)
-https://www.googleapis.com/drive/v3/files/1yv7wF74vUrPi_pisKOqgIIkn-eIG58L2?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="FILME", NOME
+LINK
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/xFOZFOdQFijudZrgX53mHeBI2Ff.jpg" group-title="FILME", Django Livre (2012) 
-https://www.googleapis.com/drive/v3/files/15qw9DIXtmTJekLK2AX3CK7KA3u1y59pQ?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="FILME", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="FILME", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="FILME", NOME
+LINK
+
+
+
+
 
 
 
