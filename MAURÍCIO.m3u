@@ -31,11 +31,12 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", NOME
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", ESPORTE
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", NOME
-LINK
+#EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", ESPORTE
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
+
 
 #EXTINF:-1 tvg-logo="IMAGEM" group-title="TV", NOME
 LINK
